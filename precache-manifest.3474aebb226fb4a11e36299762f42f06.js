@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/spms-app/static/js/runtime~main.8fd262fa.js"
   },
   {
-    "revision": "49fecc9675d8401d5162",
-    "url": "/spms-app/static/js/main.49fecc96.chunk.js"
+    "revision": "e1ef7aa9d55058f90a84",
+    "url": "/spms-app/static/js/main.e1ef7aa9.chunk.js"
   },
   {
     "revision": "7e482d3a8c9ec2188a00",
     "url": "/spms-app/static/js/1.7e482d3a.chunk.js"
   },
   {
-    "revision": "49fecc9675d8401d5162",
-    "url": "/spms-app/static/css/main.48e7e6ea.chunk.css"
+    "revision": "e1ef7aa9d55058f90a84",
+    "url": "/spms-app/static/css/main.a5311892.chunk.css"
   },
   {
-    "revision": "4484c392775b65a597b831eef8b737d6",
+    "revision": "c6b2e582c43bb6abf1d40335a8effe30",
     "url": "/spms-app/index.html"
   }
 ];
